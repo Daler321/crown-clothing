@@ -26,12 +26,12 @@ import {
 import { Category } from '../../store/categories/categories.types';
 
 const firebaseConfig = {
-  apiKey: process.env.REACT_APP_API_KEY,
-  authDomain: process.env.REACT_APP_AUTH_DOMAIN,
-  projectId: process.env.REACT_APP_PROJECT_ID,
-  storageBucket: process.env.REACT_APP_STORAGE_BUCKET,
-  messagingSenderId: process.env.REACT_APP_MESSAGING_SENDER_ID,
-  appId: process.env.REACT_APP_APP_ID,
+  apiKey: 'AIzaSyCIdms9Qh_2UcoG9uP5IyeuazjKx_y3KlI',
+  authDomain: 'crown-clothing-db-abc.firebaseapp.com',
+  projectId: 'crown-clothing-db-abc',
+  storageBucket: 'crown-clothing-db-abc.appspot.com',
+  messagingSenderId: '81261171876',
+  appId: '1:81261171876:web:80ca9e0d723a0b91358231',
 };
 
 initializeApp(firebaseConfig);
