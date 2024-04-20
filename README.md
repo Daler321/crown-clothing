@@ -2,10 +2,12 @@
 
 Crown Clothing is a project created for my portfolio as part of the Zero To Mastery (ZTM) course. It's an e-commerce platform designed to offer a seamless shopping experience for fashion enthusiasts. Built with modern web technologies, this project showcases my skills in frontend development.
 
+## [Link to site](https://crown-clothing-by-daler.netlify.app/shop)
+
 ## Features
 
 - **User Authentication**: Authentication system powered by Firebase, enabling users to sign up, log in, and manage their accounts securely.
-- **Payment Integration**: Secure transactions facilitated by the Stripe API, ensuring a smooth checkout process.
+- **Payment Integration**: Secure transactions facilitated by the Stripe API, ensuring a smooth checkout process. For test payment you can use '4242 4242 4242 4242' card.
 - **Shopping Cart**: Seamless shopping experience with the ability to add products to the cart and manage items effortlessly.
 - **Product Catalog**: A diverse collection of clothing items meticulously categorized for easy browsing.
 - **Responsive Design**: Optimized for various devices to provide a consistent user experience across desktop, tablet, and mobile.
