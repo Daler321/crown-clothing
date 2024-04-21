@@ -2,7 +2,7 @@
 
 Crown Clothing is a project created for my portfolio as part of the Zero To Mastery (ZTM) course. It's an e-commerce platform designed to offer a seamless shopping experience for fashion enthusiasts. Built with modern web technologies, this project showcases my skills in frontend development.
 
-## [Link to site](https://crown-clothing-by-daler.netlify.app/shop)
+## [Link to site](https://crown-clothing-by-daler.netlify.app/)
 
 ## Features
 
